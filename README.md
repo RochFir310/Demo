@@ -1,2 +1,2 @@
 # Demo
-$ls
+system.out.println("Hello");
